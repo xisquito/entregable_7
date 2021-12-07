@@ -1,0 +1,349 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.9f1 (108be757e447) revision 1084391'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1348; Version 2009; 64bit' Language: 'es' Physical Memory: 16322 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.9f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/UNITYYYY/entregable_7/entregable_7/entregable_7
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55827
+Successfully changed project path to: D:/UNITYYYY/entregable_7/entregable_7/entregable_7
+D:/UNITYYYY/entregable_7/entregable_7/entregable_7
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 19.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.9f1 (108be757e447)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/UNITYYYY/entregable_7/entregable_7/entregable_7/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 SUPER (ID=0x1f06)
+    Vendor:   
+    VRAM:     8031 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56540
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001792 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 19.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.921 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000565 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.719 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1128 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.3 MB.
+System memory in use after: 59.3 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1570.
+Total: 1.335700 ms (FindLiveObjects: 0.098900 ms CreateObjectMapping: 0.028200 ms MarkObjects: 1.127400 ms  DeleteObjects: 0.080300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  artifactKey: Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans.ttf using Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdddd331c3f1b7826858a8d92db67e39') in 0.097645 seconds
+  Import took 0.099242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/TextMesh Pro/Fonts
+  artifactKey: Guid(6ab70aee4d56447429c680537fbf93ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts using Guid(6ab70aee4d56447429c680537fbf93ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c860dfdf0522eec1202f36843e52d436') in 0.005055 seconds
+  Import took 0.006541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.219269 seconds.
+  path: Assets/TextMesh Pro/Fonts/BaksoSapi.otf
+  artifactKey: Guid(3c0ca3bd3df06da48977cdc5b8a645a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/BaksoSapi.otf using Guid(3c0ca3bd3df06da48977cdc5b8a645a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2385a2194d8d781a155ccf126a1aafe3') in 0.020860 seconds
+  Import took 0.022538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 138.322444 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+  artifactKey: Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca0d2861f60500f05bd29199894f7bb5') in 0.091074 seconds
+  Import took 0.092871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+  artifactKey: Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat using Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '289988fcecf3b00d1602f8d2b589f7dd') in 0.068493 seconds
+  Import took 0.070067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8c2210586957436df79bf961aeff06e') in 0.032496 seconds
+  Import took 0.033983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+  artifactKey: Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca0d2861f60500f05bd29199894f7bb5') in 0.024956 seconds
+  Import took 0.026450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8c2210586957436df79bf961aeff06e') in 0.010212 seconds
+  Import took 0.011944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1280cc7be10b532b2897fc8654f95d3') in 0.033993 seconds
+  Import took 0.035539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002828 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1280cc7be10b532b2897fc8654f95d3') in 0.030018 seconds
+  Import took 0.031669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 148.477484 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.005481 seconds
+  Import took 0.007106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.006158 seconds.
+  path: Assets/Script
+  artifactKey: Guid(f7c3f206829521944baee60903bec64e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script using Guid(f7c3f206829521944baee60903bec64e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21d66e108e6b241a76dc692deb4d9194') in 0.006395 seconds
+  Import took 0.008108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.580382 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(a5e509d5664e83a4784163ee79f40d6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(a5e509d5664e83a4784163ee79f40d6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5809cc677453ee122225ffed9bcc969c') in 0.006218 seconds
+  Import took 0.007897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.243946 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85059f4f9e1a832ed95adaa0d25c5c4c') in 0.005538 seconds
+  Import took 0.007132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.197019 seconds.
+  path: Assets/Scenes/entregable_7.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/entregable_7.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6a26dc69d2c0c368feecd72c32cc94c') in 0.005235 seconds
+  Import took 0.006789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Scenes/entregable_7.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/entregable_7.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6a26dc69d2c0c368feecd72c32cc94c') in 0.005564 seconds
+  Import took 0.007119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 82.700218 seconds.
+  path: Assets/Script/playerController.cs
+  artifactKey: Guid(55ed2f96da37fa04395de69864919aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/playerController.cs using Guid(55ed2f96da37fa04395de69864919aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0117e574dfd70e57a921cc8ce326d665') in 0.028575 seconds
+  Import took 0.030278 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000862 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.666 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.4 MB.
+System memory in use after: 61.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1618.
+Total: 1.332600 ms (FindLiveObjects: 0.094300 ms CreateObjectMapping: 0.027000 ms MarkObjects: 1.169500 ms  DeleteObjects: 0.041000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000580 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.732 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.4 MB.
+System memory in use after: 61.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1621.
+Total: 1.510000 ms (FindLiveObjects: 0.104100 ms CreateObjectMapping: 0.027400 ms MarkObjects: 1.337100 ms  DeleteObjects: 0.040600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 127.149367 seconds.
+  path: Assets/Script/playerController.cs
+  artifactKey: Guid(55ed2f96da37fa04395de69864919aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/playerController.cs using Guid(55ed2f96da37fa04395de69864919aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75f7d47c09bbbad92d070c32615e941f') in 0.003117 seconds
+  Import took 0.004806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.128651 seconds.
+  path: Assets/Script/playerController.cs
+  artifactKey: Guid(55ed2f96da37fa04395de69864919aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/playerController.cs using Guid(55ed2f96da37fa04395de69864919aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eac7c486daf96ed5e5be6db22f51cd67') in 0.003412 seconds
+  Import took 0.005225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 237.548337 seconds.
+  path: Assets/Script/playerController.cs
+  artifactKey: Guid(55ed2f96da37fa04395de69864919aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/playerController.cs using Guid(55ed2f96da37fa04395de69864919aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0235bc74820a3289d8d1d8ad05aa95b2') in 0.002849 seconds
+  Import took 0.005318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001981 seconds.
+  path: Assets/Script/playerController.cs
+  artifactKey: Guid(55ed2f96da37fa04395de69864919aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/playerController.cs using Guid(55ed2f96da37fa04395de69864919aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0235bc74820a3289d8d1d8ad05aa95b2') in 0.001682 seconds
+  Import took 0.003170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.901056 seconds.
+  path: Assets/Script/playerController.cs
+  artifactKey: Guid(55ed2f96da37fa04395de69864919aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/playerController.cs using Guid(55ed2f96da37fa04395de69864919aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3a0b05047d2d21781e914ce73c1af88') in 0.003533 seconds
+  Import took 0.006750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011423 seconds.
+  path: Assets/Script/playerController.cs
+  artifactKey: Guid(55ed2f96da37fa04395de69864919aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/playerController.cs using Guid(55ed2f96da37fa04395de69864919aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3a0b05047d2d21781e914ce73c1af88') in 0.003159 seconds
+  Import took 0.004712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 120.192446 seconds.
+  path: Assets/Script/playerController.cs
+  artifactKey: Guid(55ed2f96da37fa04395de69864919aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/playerController.cs using Guid(55ed2f96da37fa04395de69864919aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbcd67fcaccbe4c83c936092740363cb') in 0.004055 seconds
+  Import took 0.006014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 88.184922 seconds.
+  path: Assets/Script/playerController.cs
+  artifactKey: Guid(55ed2f96da37fa04395de69864919aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/playerController.cs using Guid(55ed2f96da37fa04395de69864919aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '048f9ad4d3c5ae158e4a87715d8bbeab') in 0.003789 seconds
+  Import took 0.006260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002427 seconds.
+  path: Assets/Script/playerController.cs
+  artifactKey: Guid(55ed2f96da37fa04395de69864919aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/playerController.cs using Guid(55ed2f96da37fa04395de69864919aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '048f9ad4d3c5ae158e4a87715d8bbeab') in 0.004784 seconds
+  Import took 0.008325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 586.399615 seconds.
+  path: Assets/Script/playerController.cs
+  artifactKey: Guid(55ed2f96da37fa04395de69864919aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/playerController.cs using Guid(55ed2f96da37fa04395de69864919aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd30f1636e6218c3fb0f73e44a22a9a42') in 0.002613 seconds
+  Import took 0.005308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.357767 seconds.
+  path: Assets/Script/playerController.cs
+  artifactKey: Guid(55ed2f96da37fa04395de69864919aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/playerController.cs using Guid(55ed2f96da37fa04395de69864919aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c455c2ee60244be655d2374bfbc87d1') in 0.003921 seconds
+  Import took 0.005881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 92.858824 seconds.
+  path: Assets/Script/playerController.cs
+  artifactKey: Guid(55ed2f96da37fa04395de69864919aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/playerController.cs using Guid(55ed2f96da37fa04395de69864919aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4164e59899d8b40c4bc8cc639b7e1ee') in 0.002126 seconds
+  Import took 0.004343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016508 seconds.
+  path: Assets/Script/playerController.cs
+  artifactKey: Guid(55ed2f96da37fa04395de69864919aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/playerController.cs using Guid(55ed2f96da37fa04395de69864919aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4164e59899d8b40c4bc8cc639b7e1ee') in 0.002021 seconds
+  Import took 0.003641 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
